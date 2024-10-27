@@ -1,4 +1,4 @@
 run at Foundation-Test-1 folder 
 ```bash
-javac -d out/production --module-source-path MyFirstModule=MyFirstModule/src -m MyFirstModule
+javac -d out/production --module-source-path . -m MyFirstModule
 ```
